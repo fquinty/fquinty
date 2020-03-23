@@ -21,3 +21,189 @@ dateOp;dateVal;label;category;categoryParent;supplierFound;amount;accountNum;acc
 10/03/2020;10/03/2020;"PRLV SEPA SFR";"Multimedia � domicile (TV, internet, t�l�phonie...)";"Abonnements & t�l�phonie";sfr;-5,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
 10/03/2020;10/03/2020;"PRLV SEPA EAU D'OLIVET";Eau;Logement;"eau d olivet";-63,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
 10/03/2020;10/03/2020;"PRLV SEPA C.I.P.A.V";"Epargne financi�re (retraite, pr�voyance, PEA, assurance-vie...)";"D�penses d'�pargne";cipav;-162,09;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+09/03/2020;01/04/2020;"CARTE 06/03/20 28 LE 360";"H�bergement (h�tels, camping...)";"Voyages & Transports";"le 360";-43,50;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+09/03/2020;09/03/2020;"PRLV SEPA ORANGE";"T�l�phonie (fixe et mobile)";"Abonnements & t�l�phonie";orange;-9,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+06/03/2020;01/04/2020;"CARTE 05/03/20 45 AUCHAN OLIVET";Alimentation;"Vie quotidienne";auchan;-60,89;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+06/03/2020;06/03/2020;"PRLV SEPA Free Telecom";"T�l�phonie (fixe et mobile)";"Abonnements & t�l�phonie";"free telecom";-14,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+06/03/2020;01/04/2020;"CARTE 04/03/20 45 CHRONO 1042";Alimentation;"Vie quotidienne";chrono;-92,88;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+06/03/2020;01/04/2020;"CARTE 05/03/20 35 WEB AMENDE.GOUV";Contraventions;"Auto & Moto";"web amende gouv";-90,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+06/03/2020;01/04/2020;"CARTE 05/03/20 45 PICARD SA  0158";Alimentation;"Vie quotidienne";"picard surgeles";-62,65;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+05/03/2020;01/04/2020;"CARTE 04/03/20 91 EFFIA";Parking;"Auto & Moto";effia;-25,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+05/03/2020;01/04/2020;"CARTE 04/03/20 59 LEGH";"Non cat�goris�";"Non cat�goris�";LEGH;-26,50;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+05/03/2020;05/03/2020;"PRLV SEPA URSSAF CENTRE - VAL DE LOIRE";"Urssaf et charges patronales";"Imp�ts & Taxes";urssaf;-20,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+04/03/2020;04/03/2020;"PRLV SEPA CANALSAT - Groupe CANAL PLUS-G";"Multimedia � domicile (TV, internet, t�l�phonie...)";"Abonnements & t�l�phonie";"canal satellite";-30,90;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+04/03/2020;04/03/2020;"RETRAIT DAB 03/03/20 GARE SNCF M CB*7972";"Retraits cash";"Retraits cash";"Retrait automate";-40,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+03/03/2020;01/04/2020;"CARTE 29/02/20 45 PICARD SA  0158";Alimentation;"Vie quotidienne";"picard surgeles";-40,89;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+03/03/2020;01/04/2020;"CARTE 02/03/20 28 CARREFOUR DAC VL";Carburant;"Auto & Moto";carrefour;-33,44;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+03/03/2020;01/04/2020;"CARTE 02/03/20 CARREFOUR CHARTR";Alimentation;"Vie quotidienne";carrefour;-3,30;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+02/03/2020;01/04/2020;"CARTE 29/02/20 45 SUPER U";Alimentation;"Vie quotidienne";"super u";-72,60;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+02/03/2020;01/04/2020;"CARTE 28/02/20 45 LE FOURNIL D'OL";Alimentation;"Vie quotidienne";"le fournil d olivet";-17,90;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+02/03/2020;01/04/2020;"CARTE 29/02/20 45 CHRONO 1042";Alimentation;"Vie quotidienne";chrono;-47,12;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+02/03/2020;01/04/2020;"CARTE 28/02/20 75 SERVICE NAVIGO";"Electronique et informatique";"Vie quotidienne";"garmin navigon";-14,90;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+02/03/2020;01/04/2020;"CARTE 28/02/20 75 DUPONT R";"M�decins et frais m�dicaux";Sant�;"dupont r";-7,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+02/03/2020;01/04/2020;"CARTE 28/02/20 75 DUPONT R";"M�decins et frais m�dicaux";Sant�;"dupont r";-1,65;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+02/03/2020;01/04/2020;"CARTE 29/02/20 45 MAG FRUITS OLIVET";Alimentation;"Vie quotidienne";"mag fruits oliv";-34,90;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+02/03/2020;01/04/2020;"CARTE 28/02/20 45 ORLEANS GESTION FLE";Parking;"Auto & Moto";"parking chatelet";-6,60;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+02/03/2020;02/03/2020;"Relev� diff�r� Carte 4979********7972";Alimentation;"Vie quotidienne";"*** Solde des operations CB ***";"-2 063,57";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+28/02/2020;01/04/2020;"CARTE 27/02/20 91 EFFIA";Parking;"Auto & Moto";effia;-16,70;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+27/02/2020;01/04/2020;"CARTE 26/02/20 45 ETS DUPRESSOIR";"Entretien - R�paration";"Auto & Moto";"ets dupressoir";-125,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+25/02/2020;02/03/2020;"CARTE 24/02/20 17  EXCELIA G";"Non cat�goris�";"Non cat�goris�";" EXCELIA G";-800,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+24/02/2020;02/03/2020;"CARTE 22/02/20 45 AUCHAN OLIVET";Alimentation;"Vie quotidienne";auchan;-56,15;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+24/02/2020;24/02/2020;"RETRAIT DAB 21/02/20 PARIS 05    CB*7972";"Retraits cash";"Retraits cash";"Retrait automate";-40,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+24/02/2020;02/03/2020;"CARTE 21/02/20 75 KEOLIS ORLEANS";"Transports quotidiens (m�tro, bus...)";"Voyages & Transports";keolis;-1,60;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+24/02/2020;02/03/2020;"CARTE 21/02/20 75 SNCF";"Transports longue distance (avions, trains...)";"Voyages & Transports";"ce sncf";-3,80;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+24/02/2020;02/03/2020;"CARTE 21/02/20 75 SNCF";"Transports longue distance (avions, trains...)";"Voyages & Transports";"ce sncf";-25,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+24/02/2020;02/03/2020;"CARTE 22/02/20 45 COVIFRUIT";Alimentation;"Vie quotidienne";covifruit;-30,70;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+24/02/2020;02/03/2020;"CARTE 21/02/20 LIM*RIDE COST";"Mobilier, �lectrom�nager, d�coration...";"Vie quotidienne";"lim ride cost";-4,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+24/02/2020;02/03/2020;"CARTE 22/02/20 E.LECLERC";Alimentation;"Vie quotidienne";leclerc;-6,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+21/02/2020;02/03/2020;"CARTE 20/02/20 38 MC DONALDS 433";"Restaurants, bars, discoth�ques...";Loisirs;"mc donald's";-41,60;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+21/02/2020;21/02/2020;"VIR SEPA LES BOYES Copropriete";"Virements �mis";"Virements �mis";"virement les boyes copropriete";-473,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+20/02/2020;02/03/2020;"CARTE 19/02/20 05 PATISSERIE CH VIEUX";Alimentation;"Vie quotidienne";"patisserie ch vieux";-30,40;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+20/02/2020;02/03/2020;"CARTE 19/02/20 05 BRIANCONDIS";Alimentation;"Vie quotidienne";briancondis;-53,96;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+20/02/2020;02/03/2020;"CARTE 19/02/20 75 SNCF INTERNET";"Transports longue distance (avions, trains...)";"Voyages & Transports";sncf;-10,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+20/02/2020;20/02/2020;"PRLV SEPA Autoroutes du Sud de la France";P�ages;"Auto & Moto";"autoroutes du sud de la france";-80,20;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+18/02/2020;18/02/2020;"PRLV SEPA DIRECTION GENERALE DES FINANCE";"Imp�ts & Taxes";"Imp�ts & Taxes";"direction generale des finances publiques";-67,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+18/02/2020;18/02/2020;"PRLV SEPA DIRECTION GENERALE DES FINANCE";"Imp�ts & Taxes";"Imp�ts & Taxes";"direction generale des finances publiques";-208,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+18/02/2020;18/02/2020;"PRLV SEPA DIRECTION GENERALE DES FINANCE";"Imp�ts & Taxes";"Imp�ts & Taxes";"direction generale des finances publiques";-67,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+18/02/2020;18/02/2020;"PRLV SEPA DIRECTION GENERALE DES FINANCE";"Imp�ts & Taxes";"Imp�ts & Taxes";"direction generale des finances publiques";-167,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+18/02/2020;18/02/2020;"RETRAIT DAB 17/02/20 BRIANCON    CB*7972";"Retraits cash";"Retraits cash";"Retrait automate";-40,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+18/02/2020;18/02/2020;"RETRAIT DAB 17/02/20 BRIANCON VA CB*7972";"Retraits cash";"Retraits cash";"Retrait automate";-40,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+18/02/2020;18/02/2020;"RETRAIT DAB 17/02/20 BRIANCON VA CB*7972";"Retraits cash";"Retraits cash";"Retrait automate";-40,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+18/02/2020;02/03/2020;"CARTE 17/02/20 05 BRIANCONDIS";Alimentation;"Vie quotidienne";briancondis;-59,32;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+17/02/2020;02/03/2020;"CARTE 15/02/20 LIM*RIDE COST";"Mobilier, �lectrom�nager, d�coration...";"Vie quotidienne";"lim ride cost";-4,52;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+17/02/2020;02/03/2020;"CARTE 15/02/20 LIM*RIDE COST";"Mobilier, �lectrom�nager, d�coration...";"Vie quotidienne";"lim ride cost";-2,98;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+17/02/2020;02/03/2020;"CARTE 15/02/20 75 CONDE PARIS";"Non cat�goris�";"Non cat�goris�";"CONDE PARIS";-90,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+17/02/2020;02/03/2020;"CARTE 15/02/20 38 RELAIS VILLANCOU";Carburant;"Auto & Moto";"relais villancou";-55,29;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+17/02/2020;02/03/2020;"CARTE 14/02/20 03 ALLIER DOYET";Carburant;"Auto & Moto";avia;-53,70;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+17/02/2020;02/03/2020;"CARTE 14/02/20 45 DAC AUCHAN CARBU";Carburant;"Auto & Moto";auchan;-62,35;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+17/02/2020;02/03/2020;"CARTE 13/02/20 45 CHRONO 1042";Alimentation;"Vie quotidienne";chrono;-88,96;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+17/02/2020;17/02/2020;"PRLV SEPA ORANGE";"T�l�phonie (fixe et mobile)";"Abonnements & t�l�phonie";orange;-14,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+17/02/2020;17/02/2020;"PRLV SEPA ORANGE";"T�l�phonie (fixe et mobile)";"Abonnements & t�l�phonie";orange;-11,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+13/02/2020;02/03/2020;"CARTE 12/02/20 17 MONTER DISTRI";"Vie Quotidienne - Autres";"Vie quotidienne";"monter distri";-4,86;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+13/02/2020;02/03/2020;"CARTE 12/02/20 91 Intersport BRIANCON";"Equipements sportifs et artistiques";"Vie quotidienne";intersport;-120,97;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+12/02/2020;02/03/2020;"CARTE 11/02/20 45 RELAIS DU CEDRE";Carburant;"Auto & Moto";"relais des cedres";-54,36;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+12/02/2020;02/03/2020;"CARTE 11/02/20 28 L'INSTANT PAIN";Alimentation;"Vie quotidienne";"boulangerie patisserie cyril ave";-21,50;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+12/02/2020;12/02/2020;"*FRAIS AFFRAN. SERV. ENVOYER CHQ";"Frais bancaires et de gestion (dont agios)";"Services financiers & professionnels";"Boursorama Banque";-0,66;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+12/02/2020;12/02/2020;"SERVICE ENVOYER CHQ N� 1089068";Ch�ques;Ch�ques;"service envoyer cheque n 1089068";-220,03;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+11/02/2020;02/03/2020;"CARTE 10/02/20 75 RELAY 323337SC";"Livres, CD/DVD, bijoux, jouets...";"Vie quotidienne";relay;-12,90;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+11/02/2020;11/02/2020;"PRLV SEPA EAU D'OLIVET";Eau;Logement;"eau d olivet";-63,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+11/02/2020;11/02/2020;"PRLV SEPA PayPal (Europe) S.a.r.l. et Ci";"Vie Quotidienne - Autres";"Vie quotidienne";paypal;-103,85;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+10/02/2020;10/02/2020;"PRLV SEPA SFR";"Multimedia � domicile (TV, internet, t�l�phonie...)";"Abonnements & t�l�phonie";sfr;-5,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+10/02/2020;10/02/2020;"PRLV SEPA C.I.P.A.V";"Epargne financi�re (retraite, pr�voyance, PEA, assurance-vie...)";"D�penses d'�pargne";cipav;-162,09;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+10/02/2020;02/03/2020;"CARTE 07/02/20 45 ORLEANS GESTION FLE";Parking;"Auto & Moto";"parking chatelet";-5,90;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+10/02/2020;02/03/2020;"CARTE 07/02/20 45 LE MARAICHER";Alimentation;"Vie quotidienne";"le maraicher";-21,07;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+10/02/2020;02/03/2020;"CARTE 07/02/20 45 SUPER U";Alimentation;"Vie quotidienne";"super u";-54,67;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+10/02/2020;02/03/2020;"CARTE 06/02/20 75 AMAZON PAYMENTS";"Livres, CD/DVD, bijoux, jouets...";"Vie quotidienne";amazon;-29,94;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+07/02/2020;07/02/2020;"PRLV SEPA ORANGE";"T�l�phonie (fixe et mobile)";"Abonnements & t�l�phonie";orange;-9,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+06/02/2020;02/03/2020;"CARTE 05/02/20 59 TRANSPOLE DAT ME";"Transports quotidiens (m�tro, bus...)";"Voyages & Transports";"transpole dat me";-10,50;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+06/02/2020;06/02/2020;"PRLV SEPA Free Telecom";"T�l�phonie (fixe et mobile)";"Abonnements & t�l�phonie";"free telecom";-14,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+05/02/2020;02/03/2020;"CARTE 04/02/20 59 CHEZ MAX";"Restaurants, bars, discoth�ques...";Loisirs;"chez max";-36,50;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+05/02/2020;02/03/2020;"CARTE 04/02/20 75 SNCF INTERNET";"Transports longue distance (avions, trains...)";"Voyages & Transports";sncf;-20,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+05/02/2020;05/02/2020;"PRLV SEPA URSSAF CENTRE - VAL DE LOIRE";"Urssaf et charges patronales";"Imp�ts & Taxes";urssaf;-20,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+05/02/2020;02/03/2020;"CARTE 04/02/20 59 TRANSPOLE DAT ME";"Transports quotidiens (m�tro, bus...)";"Voyages & Transports";"transpole dat me";-14,45;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+05/02/2020;02/03/2020;"CARTE 04/02/20 59 AG2RMONTDALTYS";"Non cat�goris�";"Non cat�goris�";AG2RMONTDALTYS;-5,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+04/02/2020;02/03/2020;"CARTE 03/02/20 75 KEOLIS ORLEANS";"Transports quotidiens (m�tro, bus...)";"Voyages & Transports";keolis;-8,90;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+04/02/2020;04/02/2020;"PRLV SEPA CANALSAT - Groupe CANAL PLUS-G";"Multimedia � domicile (TV, internet, t�l�phonie...)";"Abonnements & t�l�phonie";"canal satellite";-30,90;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+03/02/2020;02/03/2020;"CARTE 31/01/20 45 FILET GOURMAND";Alimentation;"Vie quotidienne";"filet gourmandise";-19,65;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+03/02/2020;02/03/2020;"CARTE 31/01/20 45 SUPER U";Alimentation;"Vie quotidienne";"super u";-36,20;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+03/02/2020;02/03/2020;"CARTE 31/01/20 75 PAYPAL";"Electronique et informatique";"Vie quotidienne";paypal;-9,99;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+03/02/2020;02/03/2020;"CARTE 31/01/20 45 LE MARAICHER";Alimentation;"Vie quotidienne";"le maraicher";-14,18;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+03/02/2020;02/03/2020;"CARTE 30/01/20 45 ORLEANS GESTION";Parking;"Auto & Moto";"parking chatelet";-6,50;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+03/02/2020;02/03/2020;"CARTE 01/02/20 75 UGC BORNES HORIZ";"Divertissement - culture (cin�, th��tre, concerts...)";Loisirs;ugc;-7,70;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+03/02/2020;02/03/2020;"CARTE 01/02/20 45 RELAY 342568SC";"Livres, CD/DVD, bijoux, jouets...";"Vie quotidienne";relay;-5,10;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+03/02/2020;02/03/2020;"CARTE 01/02/20 14 NORLITOP";Alimentation;"Vie quotidienne";norlitop;-5,50;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+03/02/2020;02/03/2020;"CARTE 01/02/20 75 SERVICE NAVIGO";"Transports quotidiens (m�tro, bus...)";"Voyages & Transports";navigo;-14,90;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+03/02/2020;02/03/2020;"CARTE 01/02/20 75 SNCF";"Transports longue distance (avions, trains...)";"Voyages & Transports";sncf;-42,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+03/02/2020;03/02/2020;"RETRAIT DAB 01/02/20 FLEURY AUBR CB*7972";"Retraits cash";"Retraits cash";"Retrait automate";-40,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+03/02/2020;03/02/2020;"Relev� diff�r� Carte 4979********7972";Alimentation;"Vie quotidienne";"*** Solde des operations CB ***";"-2 921,68";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+29/01/2020;03/02/2020;"CARTE 28/01/20 75 SNCF INTERNET";"Transports longue distance (avions, trains...)";"Voyages & Transports";sncf;-35,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+29/01/2020;03/02/2020;"CARTE 26/01/20 75 BOUTIQUE SOSH";"Abonnements & t�l�phonie";"Abonnements & t�l�phonie";"boutique sosh";-10,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+28/01/2020;03/02/2020;"CARTE 27/01/20 CARREFOUR CHARTR";Alimentation;"Vie quotidienne";carrefour;-4,59;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+28/01/2020;28/01/2020;"PRLV SEPA PayPal (Europe) S.a.r.l. et Ci";"Vie Quotidienne - Autres";"Vie quotidienne";paypal;-819,15;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+27/01/2020;27/01/2020;"RETRAIT DAB 24/01/20 OLIVET      CB*7972";"Retraits cash";"Retraits cash";"Retrait automate";-40,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+27/01/2020;03/02/2020;"CARTE 24/01/20 45 SUPER U";Alimentation;"Vie quotidienne";"super u";-67,60;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+27/01/2020;03/02/2020;"CARTE 24/01/20 45 FILET GOURMAND";Alimentation;"Vie quotidienne";"filet gourmandise";-21,39;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+27/01/2020;03/02/2020;"CARTE 24/01/20 45 LA POSTE L452320";"Vie Quotidienne - Autres";"Vie quotidienne";"la poste";-19,40;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+27/01/2020;03/02/2020;"CARTE 24/01/20 45 BESNIER";Alimentation;"Vie quotidienne";besnier;-32,80;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+23/01/2020;03/02/2020;"CARTE 22/01/20 45 INTERMARCHE";Carburant;"Auto & Moto";intermarche;-58,17;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+23/01/2020;03/02/2020;"CARTE 22/01/20 28 PASSION FRUITS";Alimentation;"Vie quotidienne";"passion fruits";-17,20;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+22/01/2020;22/01/2020;"VIR Virement interne depuis BOURSORAMA";"Virements �mis";"Virements �mis";"virement interne depuis boursorama";-40,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+22/01/2020;22/01/2020;"PRLV SEPA FREE MOBILE";"T�l�phonie (fixe et mobile)";"Abonnements & t�l�phonie";"free mobile";-9,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+22/01/2020;03/02/2020;"CARTE 21/01/20 91 EFFIA";Parking;"Auto & Moto";effia;-25,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+22/01/2020;03/02/2020;"CARTE 21/01/20 59 LEGH";"Non cat�goris�";"Non cat�goris�";LEGH;-26,50;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+20/01/2020;03/02/2020;"CARTE 17/01/20 92 O'TACOS";"Restaurants, bars, discoth�ques...";Loisirs;"o tacos";-17,90;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+20/01/2020;20/01/2020;"PRLV SEPA ORANGE";"T�l�phonie (fixe et mobile)";"Abonnements & t�l�phonie";orange;-11,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+20/01/2020;20/01/2020;"PRLV SEPA Autoroutes du Sud de la France";P�ages;"Auto & Moto";"autoroutes du sud de la france";-219,30;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+20/01/2020;20/01/2020;"RETRAIT DAB 20/01/20 GARE SNCF M CB*7972";"Retraits cash";"Retraits cash";"Retrait automate";-40,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+20/01/2020;03/02/2020;"CARTE 17/01/20 92 HOTEL IBIS";"H�bergement (h�tels, camping...)";"Voyages & Transports";ibis;-69,78;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+20/01/2020;03/02/2020;"CARTE 17/01/20 92 SNCF";"Transports longue distance (avions, trains...)";"Voyages & Transports";sncf;-8,40;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+20/01/2020;03/02/2020;"CARTE 18/01/20 75 BATOBUS";"Voyages & Transports - Autres";"Voyages & Transports";"batobus tour";-17,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+20/01/2020;03/02/2020;"CARTE 18/01/20 45 BESNIER";Alimentation;"Vie quotidienne";besnier;-14,25;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+20/01/2020;03/02/2020;"CARTE 18/01/20 75 STAT TEL PARKNOW";Carburant;"Auto & Moto";"station tel parknow";-9,60;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+20/01/2020;03/02/2020;"CARTE 18/01/20 45 MAG FRUITS OLIVET";Alimentation;"Vie quotidienne";"mag fruits oliv";-32,12;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+20/01/2020;03/02/2020;"CARTE 16/01/20 E.LECLERC";Carburant;"Auto & Moto";leclerc;-50,54;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+20/01/2020;03/02/2020;"CARTE 19/01/20 45 A DOMICILE 45";"Autres d�penses";"Autres d�penses";"a domicile 45";-204,75;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+17/01/2020;03/02/2020;"CARTE 16/01/20 45 BESNIER";Alimentation;"Vie quotidienne";besnier;-7,10;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+17/01/2020;17/01/2020;"RETRAIT DAB 16/01/20 OLIVET      CB*7972";"Retraits cash";"Retraits cash";"Retrait automate";-40,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+17/01/2020;03/02/2020;"CARTE 16/01/20 75 SNCF INTERNET";"Transports longue distance (avions, trains...)";"Voyages & Transports";sncf;-21,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+17/01/2020;03/02/2020;"CARTE 16/01/20 45 AU PETIT GOURMAN";Alimentation;"Vie quotidienne";"au petit gourmandise";-10,18;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+17/01/2020;03/02/2020;"CARTE 16/01/20 45 PETIT CASINO";Alimentation;"Vie quotidienne";casino;-8,40;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+16/01/2020;16/01/2020;"CHQ. N.2602754";Ch�ques;Ch�ques;"cheque n 2602754";-255,10;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+16/01/2020;16/01/2020;"PRLV SEPA DIRECTION GENERALE DES FINANCE";"Imp�ts & Taxes";"Imp�ts & Taxes";"direction generale des finances publiques";-67,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+16/01/2020;16/01/2020;"PRLV SEPA DIRECTION GENERALE DES FINANCE";"Imp�ts & Taxes";"Imp�ts & Taxes";"direction generale des finances publiques";-67,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+16/01/2020;16/01/2020;"PRLV SEPA DIRECTION GENERALE DES FINANCE";"Imp�ts & Taxes";"Imp�ts & Taxes";"direction generale des finances publiques";-167,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+16/01/2020;16/01/2020;"PRLV SEPA DIRECTION GENERALE DES FINANCE";"Imp�ts & Taxes";"Imp�ts & Taxes";"direction generale des finances publiques";-208,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+14/01/2020;03/02/2020;"CARTE 10/01/20 E.LECLERC";Carburant;"Auto & Moto";leclerc;-15,17;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+13/01/2020;03/02/2020;"CARTE 11/01/20 45 AU PETIT GOURMAN";Alimentation;"Vie quotidienne";"au petit gourmandise";-16,29;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+13/01/2020;03/02/2020;"CARTE 10/01/20 45 WELCOM CAR";"Restaurants, bars, discoth�ques...";Loisirs;"welcom car";-35,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+13/01/2020;03/02/2020;"CARTE 10/01/20 28 L'INSTANT PAIN";Alimentation;"Vie quotidienne";"boulangerie patisserie cyril ave";-20,60;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+13/01/2020;03/02/2020;"CARTE 11/01/20 45 OLIVET SPORT 45";"Equipements sportifs et artistiques";"Vie quotidienne";"olivet sport";-49,99;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+13/01/2020;03/02/2020;"CARTE 11/01/20 45 LE FOURNIL D'OL";Alimentation;"Vie quotidienne";"le fournil d ol";-29,40;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+13/01/2020;03/02/2020;"CARTE 11/01/20 45 STYLISS COIFF";"Bien-�tre et soins (coiffeur, parfums...)";"Vie quotidienne";"coiffure styliss";-26,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+13/01/2020;03/02/2020;"CARTE 10/01/20 92 COFIROUTE";P�ages;"Auto & Moto";cofiroute;-8,60;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+13/01/2020;03/02/2020;"CARTE 11/01/20 45 MAG FRUITS OLIVET";Alimentation;"Vie quotidienne";"mag fruits oliv";-17,68;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+10/01/2020;03/02/2020;"CARTE 09/01/20 37 7000 REST REUNIC";"Restaurants, bars, discoth�ques...";Loisirs;"restaurant reuni";-40,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+10/01/2020;03/02/2020;"CARTE 09/01/20 37 AMBIANCE VENDING";"Bricolage et jardinage";"Vie quotidienne";"ambiance vending";-5,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+10/01/2020;03/02/2020;"CARTE 08/01/20 45 ORLEANS GESTION FLE";Parking;"Auto & Moto";"parking chatelet";-14,60;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+10/01/2020;03/02/2020;"CARTE 09/01/20 37 REL. RENARDIERES";Carburant;"Auto & Moto";"relais renardiere";-69,80;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+10/01/2020;03/02/2020;"CARTE 08/01/20 59 CAFE DE LA MAIRI";"Restaurants, bars, discoth�ques...";Loisirs;"cafe de la mair";-19,46;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+10/01/2020;10/01/2020;"PRLV SEPA SFR";"Multimedia � domicile (TV, internet, t�l�phonie...)";"Abonnements & t�l�phonie";sfr;-5,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+10/01/2020;10/01/2020;"PRLV SEPA C.I.P.A.V";"Epargne financi�re (retraite, pr�voyance, PEA, assurance-vie...)";"D�penses d'�pargne";cipav;-162,09;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+09/01/2020;09/01/2020;"*FRAIS AFFRAN. SERV. ENVOYER CHQ";"Frais bancaires et de gestion (dont agios)";"Services financiers & professionnels";"Boursorama Banque";-0,66;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+09/01/2020;09/01/2020;"SERVICE ENVOYER CHQ N� 1081282";Ch�ques;Ch�ques;"service envoyer cheque n 1081282";-160,01;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+08/01/2020;08/01/2020;"PRLV SEPA Free Telecom";"T�l�phonie (fixe et mobile)";"Abonnements & t�l�phonie";"free telecom";-63,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+08/01/2020;03/02/2020;"CARTE 07/01/20 38 SEMITAG";"Transports quotidiens (m�tro, bus...)";"Voyages & Transports";semitag;-3,20;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+07/01/2020;03/02/2020;"CARTE 03/01/20 SARL MAXOU";"V�tements et accessoires";"Vie quotidienne";maxou;-25,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+07/01/2020;03/02/2020;"CARTE 06/01/20 75 AMAZON PAYMENTS";"Livres, CD/DVD, bijoux, jouets...";"Vie quotidienne";amazon;-19,53;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+07/01/2020;03/02/2020;"CARTE 06/01/20 45 ECOLE DE CONDUIT";"Auto / Moto - Autres";"Auto & Moto";"ecole de conduite";-30,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+07/01/2020;03/02/2020;"CARTE 06/01/20 28 LA POSTE L289260";"Vie Quotidienne - Autres";"Vie quotidienne";"la poste";-2,32;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+07/01/2020;03/02/2020;"CARTE 06/01/20 45 BESNIER";Alimentation;"Vie quotidienne";besnier;-16,30;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+07/01/2020;03/02/2020;"CARTE 06/01/20 45 CHRONO 1042";Alimentation;"Vie quotidienne";chrono;-59,40;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+07/01/2020;07/01/2020;"PRLV SEPA FILIA-MAIF 79076 NIORT CEDEX";"Assurance habitation et RC";Logement;maif;"-2 602,59";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+07/01/2020;07/01/2020;"PRLV SEPA ORANGE";"T�l�phonie (fixe et mobile)";"Abonnements & t�l�phonie";orange;-9,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+06/01/2020;03/02/2020;"CARTE 03/01/20 06 QUARTZ SPORT";"Equipements sportifs et artistiques";"Vie quotidienne";"quartz sport";-86,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+06/01/2020;03/02/2020;"CARTE 03/01/20 06 AQUAVALLEE";"Divertissement - culture (cin�, th��tre, concerts...)";Loisirs;aquavallee;-31,50;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+06/01/2020;03/02/2020;"CARTE 03/01/20 06 MAIRA";"V�tements et accessoires";"Vie quotidienne";maira;-33,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+06/01/2020;03/02/2020;"CARTE 05/01/20 63 SELARL PHIE4RTE";"Pharmacie et laboratoire";Sant�;phie4rte;-8,95;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+06/01/2020;06/01/2020;"PRLV SEPA CANALSAT - Groupe CANAL PLUS-G";"Multimedia � domicile (TV, internet, t�l�phonie...)";"Abonnements & t�l�phonie";"canal satellite";-30,90;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+06/01/2020;03/02/2020;"CARTE 04/01/20 84 SARL CENT FLOTS";"Non cat�goris�";"Non cat�goris�";"SARL CENT FLOTS";-49,25;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+06/01/2020;03/02/2020;"CARTE 04/01/20 38 INTERMARCHE";Alimentation;"Vie quotidienne";intermarche;-72,48;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+06/01/2020;03/02/2020;"CARTE 05/01/20 63 AUCHAN CLERMONT";Carburant;"Auto & Moto";auchan;-2,30;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+06/01/2020;06/01/2020;"PRLV SEPA URSSAF CENTRE - VAL DE LOIRE";"Urssaf et charges patronales";"Imp�ts & Taxes";urssaf;-20,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+02/01/2020;02/01/2020;"PRLV SEPA FREE MOBILE";"T�l�phonie (fixe et mobile)";"Abonnements & t�l�phonie";"free mobile";-9,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+02/01/2020;02/01/2020;"Relev� diff�r� Carte 4979********7972";Alimentation;"Vie quotidienne";"*** Solde des operations CB ***";"-5 937,72";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+09/03/2020;09/03/2020;"VIR SEPA AIRBNB PAYMENTS UK LIMITED";"Virements re�us";"Virements re�us";"virement airbnb payments uk limited";684,50;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+06/03/2020;06/03/2020;"VIR SEPA GIE AG2R";"Virements re�us";"Virements re�us";"virement agr";691,51;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+03/03/2020;03/03/2020;"VIR SEPA ADYEN NV";"Virements re�us";"Virements re�us";"virement adyen nv";650,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+03/03/2020;03/03/2020;"VIR SEPA FREE MOBILE";"Virements re�us";"Virements re�us";"virement free mobile";4,18;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+26/02/2020;26/02/2020;"VIR SEPA GIE AG2R";"Virements re�us";"Virements re�us";"virement agr";"3 738,68";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+24/02/2020;24/02/2020;"VIR SEPA AIRBNB PAYMENTS UK LIMITED";"Virements re�us";"Virements re�us";"virement airbnb payments uk limited";"1 359,24";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+18/02/2020;18/02/2020;"VIR SEPA FAYARD LOIC";"Virements re�us";"Virements re�us";"virement fayard loic";720,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+04/02/2020;04/02/2020;"VIR SEPA M A FOURMON OU MLE S CARLE";"Virements re�us";"Virements re�us";"virement ma fourmon ou mle s carle";150,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+04/02/2020;04/02/2020;"VIR SEPA M A FOURMON OU MLE S CARLE";"Virements re�us";"Virements re�us";"virement ma fourmon ou mle s carle";500,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+27/01/2020;27/01/2020;"VIR SEPA GIE AG2R";"Virements re�us";"Virements re�us";"virement agr";"3 746,76";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+22/01/2020;22/01/2020;"VIR SEPA EAU D'OLIVET";"Virements re�us";"Virements re�us";"virement eau d olivet";431,40;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+16/01/2020;16/01/2020;"VIR SEPA ORANGE";"Virements re�us";"Virements re�us";"virement orange";40,79;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+15/01/2020;15/01/2020;"REM CHQ N. 1607960";"D�pots (cartes/ch�ques/esp�ces)";"D�pots (cartes/ch�ques/esp�ces)";"remise de cheque n 1607960";"1 505,00";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+08/01/2020;08/01/2020;"VIR SEPA GIE AG2R";"Virements re�us";"Virements re�us";"virement agr";861,72;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+02/01/2020;02/01/2020;"Relev� diff�r� Carte 4979********7972";Alimentation;"Vie quotidienne";"*** Solde des operations CB ***";40,50;00040726219;"BOURSORAMA BANQUE";"15 851,23"
