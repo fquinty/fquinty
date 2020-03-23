@@ -1,3 +1,3 @@
-dateOp;dateVal;label;amout
-20/03/2020;20/03/2020;"PRVL";20
-20/03/2020;20/03/2020;"VIR";100
+dateOp;dateVal;label;category;categoryParent
+20/03/2020;20/03/2020;"PRLV SEPA Autoroutes du Sud de la France";P�ages;"Auto & Moto"
+20/03/2020;20/03/2020;"PRLV SEPA DIRECTION GENERALE DES FINANCE";"Imp�ts & Taxes";"Imp�ts & Taxes"
