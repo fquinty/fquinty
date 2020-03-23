@@ -1,3 +1,3 @@
-dateOp;dateVal;label;category;categoryParent
-20/03/2020;20/03/2020;"PRLV SEPA Autoroutes du Sud de la France";P�ages;"Auto & Moto"
-20/03/2020;20/03/2020;"PRLV SEPA DIRECTION GENERALE DES FINANCE";"Imp�ts & Taxes";"Imp�ts & Taxes"
+dateOp;dateVal;label;category;categoryParent;supplierFound;amount
+20/03/2020;20/03/2020;"PRLV SEPA Autoroutes du Sud de la France";P�ages;"Auto & Moto";"autoroutes du sud de la france";-109,60
+20/03/2020;20/03/2020;"PRLV SEPA DIRECTION GENERALE DES FINANCE";"Imp�ts & Taxes";"Imp�ts & Taxes";"direction generale des finances publiques";-167,00
