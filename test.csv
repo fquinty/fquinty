@@ -18,3 +18,6 @@ dateOp;dateVal;label;category;categoryParent;supplierFound;amount;accountNum;acc
 12/03/2020;01/04/2020;"CARTE 16/02/20 05 AUT RMBS PARCS O";"Non cat�goris�";"Non cat�goris�";"AUT RMBS PARCS O";-5,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
 12/03/2020;01/04/2020;"CARTE 18/02/20 05 AUT RMBS PARCS O";"Non cat�goris�";"Non cat�goris�";"AUT RMBS PARCS O";-5,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
 12/03/2020;01/04/2020;"CARTE 12/03/20 59 SO BAR A MOJITOS";"Restaurants, bars, discoth�ques...";Loisirs;"so bar a mojitos";-95,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+10/03/2020;10/03/2020;"PRLV SEPA SFR";"Multimedia � domicile (TV, internet, t�l�phonie...)";"Abonnements & t�l�phonie";sfr;-5,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+10/03/2020;10/03/2020;"PRLV SEPA EAU D'OLIVET";Eau;Logement;"eau d olivet";-63,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+10/03/2020;10/03/2020;"PRLV SEPA C.I.P.A.V";"Epargne financi�re (retraite, pr�voyance, PEA, assurance-vie...)";"D�penses d'�pargne";cipav;-162,09;00040726219;"BOURSORAMA BANQUE";"15 851,23"
