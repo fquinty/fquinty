@@ -1,3 +1,20 @@
 dateOp;dateVal;label;category;categoryParent;supplierFound;amount;accountNum;accountLabel;accountBalance
 20/03/2020;20/03/2020;"PRLV SEPA Autoroutes du Sud de la France";P�ages;"Auto & Moto";"autoroutes du sud de la france";-109,60;00040726219;"BOURSORAMA BANQUE";"15 851,23"
 17/03/2020;17/03/2020;"PRLV SEPA DIRECTION GENERALE DES FINANCE";"Imp�ts & Taxes";"Imp�ts & Taxes";"direction generale des finances publiques";-167,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+17/03/2020;17/03/2020;"PRLV SEPA DIRECTION GENERALE DES FINANCE";"Imp�ts & Taxes";"Imp�ts & Taxes";"direction generale des finances publiques";-208,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+17/03/2020;17/03/2020;"PRLV SEPA DIRECTION GENERALE DES FINANCE";"Imp�ts & Taxes";"Imp�ts & Taxes";"direction generale des finances publiques";-67,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+17/03/2020;17/03/2020;"PRLV SEPA DIRECTION GENERALE DES FINANCE";"Imp�ts & Taxes";"Imp�ts & Taxes";"direction generale des finances publiques";-67,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+17/03/2020;17/03/2020;"PRLV SEPA ORANGE";"T�l�phonie (fixe et mobile)";"Abonnements & t�l�phonie";orange;-11,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+17/03/2020;17/03/2020;"PRLV SEPA ORANGE";"T�l�phonie (fixe et mobile)";"Abonnements & t�l�phonie";orange;-14,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+16/03/2020;01/04/2020;"CARTE 15/03/20 45 A DOMICILE 45";"Autres d�penses";"Autres d�penses";"a domicile 45";-551,76;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+16/03/2020;01/04/2020;"CARTE 13/03/20 45 SUPER U";Alimentation;"Vie quotidienne";"super u";-113,51;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+16/03/2020;16/03/2020;"*FRAIS AFFRAN. SERV. ENVOYER CHQ";"Frais bancaires et de gestion (dont agios)";"Services financiers & professionnels";"Boursorama Banque";-0,66;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+16/03/2020;16/03/2020;"SERVICE ENVOYER CHQ N� 1094714";Ch�ques;Ch�ques;"service envoyer cheque n 1094714";-349,03;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+16/03/2020;16/03/2020;"PRLV SEPA CANALSAT - Groupe CANAL PLUS";"Multimedia � domicile (TV, internet, t�l�phonie...)";"Abonnements & t�l�phonie";"canal satellite";-4,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
+13/03/2020;01/04/2020;"CARTE 12/03/20 59 PIZZA DEL'ARTE";"Restaurants, bars, discoth�ques...";Loisirs;"del arte";-274,64;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+13/03/2020;01/04/2020;"CARTE 12/03/20 91 EFFIA";Parking;"Auto & Moto";effia;-25,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+12/03/2020;01/04/2020;"CARTE 11/03/20 E.LECLERC";Carburant;"Auto & Moto";leclerc;-57,95;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+12/03/2020;01/04/2020;"CARTE 11/03/20 59 ESTAMINET LA VIEILL";"Restaurants, bars, discoth�ques...";Loisirs;"estaminet la vi";-601,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+12/03/2020;01/04/2020;"CARTE 16/02/20 05 AUT RMBS PARCS O";"Non cat�goris�";"Non cat�goris�";"AUT RMBS PARCS O";-5,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+12/03/2020;01/04/2020;"CARTE 18/02/20 05 AUT RMBS PARCS O";"Non cat�goris�";"Non cat�goris�";"AUT RMBS PARCS O";-5,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
+12/03/2020;01/04/2020;"CARTE 12/03/20 59 SO BAR A MOJITOS";"Restaurants, bars, discoth�ques...";Loisirs;"so bar a mojitos";-95,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
