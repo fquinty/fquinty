@@ -204,6 +204,6 @@ dateOp;dateVal;label;category;categoryParent;supplierFound;amount;accountNum;acc
 27/01/2020;27/01/2020;"VIR SEPA GIE AG2R";"Virements re�us";"Virements re�us";"virement agr";"3746,76";00040726219;"BOURSORAMA BANQUE";"15 851,23"
 22/01/2020;22/01/2020;"VIR SEPA EAU D'OLIVET";"Virements re�us";"Virements re�us";"virement eau d olivet";431,40;00040726219;"BOURSORAMA BANQUE";"15 851,23"
 16/01/2020;16/01/2020;"VIR SEPA ORANGE";"Virements re�us";"Virements re�us";"virement orange";40,79;00040726219;"BOURSORAMA BANQUE";"15 851,23"
-15/01/2020;15/01/2020;"REM CHQ N. 1607960";"D�pots (cartes/ch�ques/esp�ces)";"D�pots (cartes/ch�ques/esp�ces)";"remise de cheque n 1607960";"1 505,00";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+15/01/2020;15/01/2020;"REM CHQ N. 1607960";"D�pots (cartes/ch�ques/esp�ces)";"D�pots (cartes/ch�ques/esp�ces)";"remise de cheque n 1607960";"1505,00";00040726219;"BOURSORAMA BANQUE";"15 851,23"
 08/01/2020;08/01/2020;"VIR SEPA GIE AG2R";"Virements re�us";"Virements re�us";"virement agr";861,72;00040726219;"BOURSORAMA BANQUE";"15 851,23"
 02/01/2020;02/01/2020;"Relev� diff�r� Carte 4979********7972";Alimentation;"Vie quotidienne";"*** Solde des operations CB ***";40,50;00040726219;"BOURSORAMA BANQUE";"15 851,23"
