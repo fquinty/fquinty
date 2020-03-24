@@ -115,7 +115,7 @@ dateOp;dateVal;label;category;categoryParent;supplierFound;amount;accountNum;acc
 03/02/2020;02/03/2020;"CARTE 01/02/20 75 SERVICE NAVIGO";"Transports quotidiens (m�tro, bus...)";"Voyages & Transports";navigo;-14,90;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
 03/02/2020;02/03/2020;"CARTE 01/02/20 75 SNCF";"Transports longue distance (avions, trains...)";"Voyages & Transports";sncf;-42,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
 03/02/2020;03/02/2020;"RETRAIT DAB 01/02/20 FLEURY AUBR CB*7972";"Retraits cash";"Retraits cash";"Retrait automate";-40,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
-03/02/2020;03/02/2020;"Relev� diff�r� Carte 4979********7972";Alimentation;"Vie quotidienne";"*** Solde des operations CB ***";"-2 921,68";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+03/02/2020;03/02/2020;"Relev� diff�r� Carte 4979********7972";Alimentation;"Vie quotidienne";"*** Solde des operations CB ***";"-2921,68";00040726219;"BOURSORAMA BANQUE";"15 851,23"
 29/01/2020;03/02/2020;"CARTE 28/01/20 75 SNCF INTERNET";"Transports longue distance (avions, trains...)";"Voyages & Transports";sncf;-35,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
 29/01/2020;03/02/2020;"CARTE 26/01/20 75 BOUTIQUE SOSH";"Abonnements & t�l�phonie";"Abonnements & t�l�phonie";"boutique sosh";-10,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
 28/01/2020;03/02/2020;"CARTE 27/01/20 CARREFOUR CHARTR";Alimentation;"Vie quotidienne";carrefour;-4,59;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
@@ -179,7 +179,7 @@ dateOp;dateVal;label;category;categoryParent;supplierFound;amount;accountNum;acc
 07/01/2020;03/02/2020;"CARTE 06/01/20 28 LA POSTE L289260";"Vie Quotidienne - Autres";"Vie quotidienne";"la poste";-2,32;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
 07/01/2020;03/02/2020;"CARTE 06/01/20 45 BESNIER";Alimentation;"Vie quotidienne";besnier;-16,30;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
 07/01/2020;03/02/2020;"CARTE 06/01/20 45 CHRONO 1042";Alimentation;"Vie quotidienne";chrono;-59,40;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
-07/01/2020;07/01/2020;"PRLV SEPA FILIA-MAIF 79076 NIORT CEDEX";"Assurance habitation et RC";Logement;maif;"-2 602,59";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+07/01/2020;07/01/2020;"PRLV SEPA FILIA-MAIF 79076 NIORT CEDEX";"Assurance habitation et RC";Logement;maif;"-2602,59";00040726219;"BOURSORAMA BANQUE";"15 851,23"
 07/01/2020;07/01/2020;"PRLV SEPA ORANGE";"T�l�phonie (fixe et mobile)";"Abonnements & t�l�phonie";orange;-9,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
 06/01/2020;03/02/2020;"CARTE 03/01/20 06 QUARTZ SPORT";"Equipements sportifs et artistiques";"Vie quotidienne";"quartz sport";-86,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
 06/01/2020;03/02/2020;"CARTE 03/01/20 06 AQUAVALLEE";"Divertissement - culture (cin�, th��tre, concerts...)";Loisirs;aquavallee;-31,50;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
@@ -191,17 +191,17 @@ dateOp;dateVal;label;category;categoryParent;supplierFound;amount;accountNum;acc
 06/01/2020;03/02/2020;"CARTE 05/01/20 63 AUCHAN CLERMONT";Carburant;"Auto & Moto";auchan;-2,30;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
 06/01/2020;06/01/2020;"PRLV SEPA URSSAF CENTRE - VAL DE LOIRE";"Urssaf et charges patronales";"Imp�ts & Taxes";urssaf;-20,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
 02/01/2020;02/01/2020;"PRLV SEPA FREE MOBILE";"T�l�phonie (fixe et mobile)";"Abonnements & t�l�phonie";"free mobile";-9,99;00040726219;"BOURSORAMA BANQUE";"15 851,23"
-02/01/2020;02/01/2020;"Relev� diff�r� Carte 4979********7972";Alimentation;"Vie quotidienne";"*** Solde des operations CB ***";"-5 937,72";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+02/01/2020;02/01/2020;"Relev� diff�r� Carte 4979********7972";Alimentation;"Vie quotidienne";"*** Solde des operations CB ***";"-5937,72";00040726219;"BOURSORAMA BANQUE";"15 851,23"
 09/03/2020;09/03/2020;"VIR SEPA AIRBNB PAYMENTS UK LIMITED";"Virements re�us";"Virements re�us";"virement airbnb payments uk limited";684,50;00040726219;"BOURSORAMA BANQUE";"15 851,23"
 06/03/2020;06/03/2020;"VIR SEPA GIE AG2R";"Virements re�us";"Virements re�us";"virement agr";691,51;00040726219;"BOURSORAMA BANQUE";"15 851,23"
 03/03/2020;03/03/2020;"VIR SEPA ADYEN NV";"Virements re�us";"Virements re�us";"virement adyen nv";650,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
 03/03/2020;03/03/2020;"VIR SEPA FREE MOBILE";"Virements re�us";"Virements re�us";"virement free mobile";4,18;00040726219;"BOURSORAMA BANQUE";"15 851,23"
-26/02/2020;26/02/2020;"VIR SEPA GIE AG2R";"Virements re�us";"Virements re�us";"virement agr";"3 738,68";00040726219;"BOURSORAMA BANQUE";"15 851,23"
-24/02/2020;24/02/2020;"VIR SEPA AIRBNB PAYMENTS UK LIMITED";"Virements re�us";"Virements re�us";"virement airbnb payments uk limited";"1 359,24";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+26/02/2020;26/02/2020;"VIR SEPA GIE AG2R";"Virements re�us";"Virements re�us";"virement agr";"3738,68";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+24/02/2020;24/02/2020;"VIR SEPA AIRBNB PAYMENTS UK LIMITED";"Virements re�us";"Virements re�us";"virement airbnb payments uk limited";"1359,24";00040726219;"BOURSORAMA BANQUE";"15 851,23"
 18/02/2020;18/02/2020;"VIR SEPA FAYARD LOIC";"Virements re�us";"Virements re�us";"virement fayard loic";720,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
 04/02/2020;04/02/2020;"VIR SEPA M A FOURMON OU MLE S CARLE";"Virements re�us";"Virements re�us";"virement ma fourmon ou mle s carle";150,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
 04/02/2020;04/02/2020;"VIR SEPA M A FOURMON OU MLE S CARLE";"Virements re�us";"Virements re�us";"virement ma fourmon ou mle s carle";500,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
-27/01/2020;27/01/2020;"VIR SEPA GIE AG2R";"Virements re�us";"Virements re�us";"virement agr";"3 746,76";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+27/01/2020;27/01/2020;"VIR SEPA GIE AG2R";"Virements re�us";"Virements re�us";"virement agr";"3746,76";00040726219;"BOURSORAMA BANQUE";"15 851,23"
 22/01/2020;22/01/2020;"VIR SEPA EAU D'OLIVET";"Virements re�us";"Virements re�us";"virement eau d olivet";431,40;00040726219;"BOURSORAMA BANQUE";"15 851,23"
 16/01/2020;16/01/2020;"VIR SEPA ORANGE";"Virements re�us";"Virements re�us";"virement orange";40,79;00040726219;"BOURSORAMA BANQUE";"15 851,23"
 15/01/2020;15/01/2020;"REM CHQ N. 1607960";"D�pots (cartes/ch�ques/esp�ces)";"D�pots (cartes/ch�ques/esp�ces)";"remise de cheque n 1607960";"1 505,00";00040726219;"BOURSORAMA BANQUE";"15 851,23"
