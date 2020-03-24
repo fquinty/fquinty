@@ -115,7 +115,7 @@ dateOp;dateVal;label;category;categoryParent;supplierFound;amount;accountNum;acc
 03/02/2020;02/03/2020;"CARTE 01/02/20 75 SERVICE NAVIGO";"Transports quotidiens (m�tro, bus...)";"Voyages & Transports";navigo;-14,90;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
 03/02/2020;02/03/2020;"CARTE 01/02/20 75 SNCF";"Transports longue distance (avions, trains...)";"Voyages & Transports";sncf;-42,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
 03/02/2020;03/02/2020;"RETRAIT DAB 01/02/20 FLEURY AUBR CB*7972";"Retraits cash";"Retraits cash";"Retrait automate";-40,00;00040726219;"BOURSORAMA BANQUE";"15 851,23"
-03/02/2020;03/02/2020;"Relev� diff�r� Carte 4979********7972";Alimentation;"Vie quotidienne";"*** Solde des operations CB ***";"-2921,68";00040726219;"BOURSORAMA BANQUE";"15 851,23"
+03/02/2020;03/02/2020;"Relev� diff�r� Carte 4979********7972";Alimentation;"Vie quotidienne";"*** Solde des operations CB ***";"-2,68";00040726219;"BOURSORAMA BANQUE";"15 851,23"
 29/01/2020;03/02/2020;"CARTE 28/01/20 75 SNCF INTERNET";"Transports longue distance (avions, trains...)";"Voyages & Transports";sncf;-35,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
 29/01/2020;03/02/2020;"CARTE 26/01/20 75 BOUTIQUE SOSH";"Abonnements & t�l�phonie";"Abonnements & t�l�phonie";"boutique sosh";-10,00;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
 28/01/2020;03/02/2020;"CARTE 27/01/20 CARREFOUR CHARTR";Alimentation;"Vie quotidienne";carrefour;-4,59;4000000000556905;"Carte Bancaire � D�bit Diff�r�";0,00
